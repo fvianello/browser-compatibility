@@ -7,7 +7,7 @@ Updated on : 2018-02-08
 | ------ | ------ | ------ | ------ | ------ |
 | Windows 8 | X | X | X |  |
 | Windows 10 | X | X | X |  |
-| MacOSX |  |  | X | X | X |
+| MacOSX |  | X | X | X |
 
 ## Tablet
 
