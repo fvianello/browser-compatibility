@@ -5,6 +5,7 @@ Updated on : 2018-02-08
 
 | OS | MS EDGE (latest 2 stable ver) | Firefox (latest 2 stable ver) | Chrome (latest 2 stable ver) | Safari (latest 2 stable ver) |
 | ------ | ------ | ------ | ------ | ------ |
+| Windows 8 | X | X | X |  |
 | Windows 10 | X | X | X |  |
 | MacOSX |  |  | X | X | X |
 
